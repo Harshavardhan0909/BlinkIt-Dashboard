@@ -85,8 +85,8 @@ Users can dynamically filter data by:
 Outlet Location Type
 Outlet Size
 Item Type
-📷 Dashboard Preview
-<img width="100%" alt="Blinkit Dashboard" src="YOUR_IMAGE_LINK_HERE">
+## 📷 Dashboard Preview
+<img width="100%" alt="Blinkit Dashboard" src="https://raw.githubusercontent.com/Harshavardhan0909/BlinkIt-Dashboard/main/Snapshot%20of%20Dashboard.png">
 📌 Key Insights
 Tier 3 outlets generated the highest sales.
 Supermarket Type1 contributed the maximum revenue.
